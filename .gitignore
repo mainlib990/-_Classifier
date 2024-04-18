@@ -1,4 +1,4 @@
 tmp/
 result/
-간지/
-본문/
+resources/간지/*.pdf
+resources/본문/*.pdf
